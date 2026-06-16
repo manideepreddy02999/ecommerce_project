@@ -5,7 +5,7 @@ import { useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useDispatch } from "react-redux";
-import { addToCart } from "../../redux/CartSlice";
+import { addToCart } from "../../redux/CartSlice.jsx";
 
 const MensProducts = () => {
   const addToCartHandler = (item) => {
