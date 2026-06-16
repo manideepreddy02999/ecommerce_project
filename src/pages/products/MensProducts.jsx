@@ -5,16 +5,13 @@ import { useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useDispatch } from "react-redux";
-import { addToCart } from "../../redux/cartSlice";
-
-
+import { addToCart } from "../../redux/CartSlice";
 
 const MensProducts = () => {
-
   const addToCartHandler = (item) => {
     dispatch(addToCart(item));
     console.log("Added to cart:", item);
-  }
+  };
 
   const dispatch = useDispatch();
 
@@ -39,27 +36,28 @@ const MensProducts = () => {
 
   const navigate = useNavigate();
 
-  return <div  > MensProducts
-    <div className="mens-container" >
-      {mensData.map((item) => {
-        return (
+  return (
+    <div>
+      {" "}
+      MensProducts
+      <div className="mens-container">
+        {mensData.map((item) => {
+          return (
             <div className="mens-item" key={item.id}>
-                <h3>{item.productName}</h3>
-                <div className="mens-image">
-                    <img src={item.productImageUrl} />
-                </div>
-                <button onClick={() => addToCartHandler(item)}>Add to Cart</button>
-                <button onClick={() => navigate(`/cart`)}>View Details</button>
+              <h3>{item.productName}</h3>
+              <div className="mens-image">
+                <img src={item.productImageUrl} />
+              </div>
+              <button onClick={() => addToCartHandler(item)}>
+                Add to Cart
+              </button>
+              <button onClick={() => navigate(`/cart`)}>View Details</button>
             </div>
-
-        );
-      })}
+          );
+        })}
+      </div>
     </div>
-
-
-
-
-  </div>;
+  );
 };
 
 export default MensProducts;
