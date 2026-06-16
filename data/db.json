@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "name": "mani",
+      "email": "mani@gmail.com",
+      "password": "Mani@123",
+      "id": "J4NbrYkUrVQ"
+    },
+    {
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "Mani@123",
+      "id": "honZ-WrXaTs"
+    }
+  ],
+  "products": [
+    
+    {
+      "productName": "shorts",
+      "productDescription": "shorts",
+      "productPrice": 5000,
+      "category": "",
+      "productImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEVrYpleFFboAnP2jN2vxmaseOZUzbzJMUeFYqGbffj7a5N4Y7t_dkH6u&s=10",
+      "id": "khyL3Chg-kg"
+    }
+  ],
+  "mens": [
+    {
+      "category": "tshirts",
+      "img": "https://constant.myntassets.com/pwa/assets/img/b2d6cb61-2796-46ba-b813-bf723c8fc27e1559216808945-Men-category-cards_01_tshirts.jpg",
+      "id": "ZCzW-oc8aHo"
+    },
+    {
+      "category": "jeans",
+      "img": "https://constant.myntassets.com/pwa/assets/img/1f2ab0ea-e6a3-4efe-b248-cbec95a900161559216808913-Men-category-cards_04_jeans.jpg",
+      "id": "wgmTbOaZ1_E"
+    },
+    {
+      "category": "trousers",
+      "img": "https://constant.myntassets.com/pwa/assets/img/f8262050-fe52-4390-98b8-21c634e09bae1559216808891-Men-category-cards_06_trousers.jpg",
+      "id": "5r3ObbZBAfw"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/6puOEhCo_913a9cbbba864604bbd2aec3823631d9.png",
+      "id": "aZ0W-NFMGEk"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/lRpCVawp_29323b5b99384fd295e6d6ebae538aaf.png",
+      "id": "YXYy3LigQYg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/kKx4yWOY_6f944928940147238b733ecd6ef1704e.png",
+      "id": "TL7WcSX0s5M"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/utSANdDL_84551615d153467e9194c3fec990a294.png",
+      "id": "TeUjXTk6LyM"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/IPgnprit_7284e8b3332b4c56a9221b1e5a442726.png",
+      "id": "027dLjE9B-Y"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/EekCMWUy_097dadbef68b4f4f923e063ae27521e0.png",
+      "id": "8VGPKeF8Zdk"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/GwEsbdaM_d89ff8665ed94e648162c3420e98f9fb.png",
+      "id": "MSrw5aFeFWA"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/Y2bmNhK3_871bf505f2db4b189d4fbf536f041272.png",
+      "id": "hGU48pV8aRk"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/aOxgkSiI_5b21e1734804431bb35eeb138fe96f99.png",
+      "id": "9FZ4noHj3AA"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/Y0mVmROR_1adab857a0974f03962f118c1efca883.png",
+      "id": "rGrEyPPAytg"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/K31JQaRo_95ef93bba7b040e397f6b8578337a9d3.png",
+      "id": "cVMKrVpALJ8"
+    }
+  ],
+  "womens": [
+    {
+      "category": "tshirts",
+      "img": "https://constant.myntassets.com/pwa/assets/img/b2d6cb61-2796-46ba-b813-bf723c8fc27e1559216808945-Women-category-cards_01_tshirts.jpg",
+      "id": "gz3_NgPkJdM"
+    },
+    {
+      "category": "jeans",
+      "img": "https://constant.myntassets.com/pwa/assets/img/1f2ab0ea-e6a3-4efe-b248-cbec95a900161559216808913-Women-category-cards_04_jeans.jpg",
+      "id": "foGI-ORm9E8"
+    },
+    {
+      "category": "trousers",
+      "img": "https://constant.myntassets.com/pwa/assets/img/f8262050-fe52-4390-98b8-21c634e09bae1559216808891-Women-category-cards_06_trousers.jpg",
+      "id": "-N25KY8weXc"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/6puOEhCo_913a9cbbba864604bbd2aec3823631d9.png",
+      "id": "1YuE9v-JUck"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/lRpCVawp_29323b5b99384fd295e6d6ebae538aaf.png",
+      "id": "JmdsjfGsTHU"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/kKx4yWOY_6f944928940147238b733ecd6ef1704e.png",
+      "id": "STshhE2VDCI"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/utSANdDL_84551615d153467e9194c3fec990a294.png",
+      "id": "5p74w50_J8w"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/IPgnprit_7284e8b3332b4c56a9221b1e5a44２7２６.png",
+      "id": "v0_jJj6oBxM"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_２.０/assets/images/２０２６/MAY/２９/EekCMWUy_０９７dadbef６８b４f４f９２３e０６３ae２７５２１e０.png",
+      "id": "cxdP8gUoUHY"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_１３３,c_limit,fl_progressive,dpr_２.０/assets/images/２０２６/MAY/２９/GwEsbdaM_d８９ff８６６５ed９４e６４８１６２c３４２０e９８f９fb.png",
+      "id": "mYEGee5P5EA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
