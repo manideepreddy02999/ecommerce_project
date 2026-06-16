@@ -2,17 +2,16 @@ import React from "react";
 
 import { useSelector } from "react-redux";
 
-import { removeFromCart } from "../redux/CartSlice";
+import { removeFromCart } from "../redux/CartSlice.jsx";
 
 import { useDispatch } from "react-redux";
 import { addToCart } from "../redux/CartSlice";
 
 const Cart = () => {
   const cartItems = useSelector((state) => state.cart.cartItems);
-  
+
   const dispatch = useDispatch();
   console.log("Cart items:", cartItems);
-
 
   const handleRemoveFromCart = (productId) => {
     dispatch(removeFromCart(productId));
